@@ -1,0 +1,5 @@
+[user]
+	email = pasha_smolin@inbox.ru
+	name = Pavel
+[alias]
+	history = log --graph
